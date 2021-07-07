@@ -1,0 +1,35 @@
+body, p, h1, h2, input, textarea{
+    margin: 0;
+    font-family: Roboto;
+}
+
+body {
+    background-color: lavender;
+}
+
+
+/*
+.icone {
+    display: flex;
+    padding: 30px;
+    padding-top: 25vh;
+    margin-left: 30vh;
+}
+*/
+
+.title {
+    display: flex;
+    flex-direction: column;
+    float: right;   
+    text-align: center; 
+    margin-right: 55vh;
+    margin-top: -40vh;
+}
+
+.icone img{
+    display: flex;
+    margin-top: 40vh;
+    margin-left: 66vh;
+    margin-bottom: 5vh;
+}
+}
